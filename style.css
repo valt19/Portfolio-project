@@ -1,4 +1,4 @@
-.logo{
+.logo	{
   width: 76px;
   height: 20px;
   font-family: 'Poppins';
@@ -14,7 +14,7 @@
   order: 0;
   flex-grow: 0;
   }
-  .text{
+  .text	{
       width: 327px;
   height: 150px;
   font-family: 'Poppins';
@@ -29,7 +29,7 @@
   order: 0;
   flex-grow: 0;
   }
-  .head-section{
+  .head-section	{
       width: 327px;
   height: 146px;
   font-family: 'Poppins';
@@ -42,7 +42,7 @@
   order: 1;
   flex-grow: 0;
   }
-  .lets{
+  .lets	{
       width: 117px;
   height: 24px;
   font-family: 'Poppins';
@@ -56,11 +56,11 @@
   flex-grow: 0;
   }
   
-.normal-button{
-  position: absolute;
-  left: 16.67%;
-  right: 16.67%;
-  top: 70.83%;
-  bottom: 29.17%;
-  border: 2px solid #ACB7C3;
-}
+  .normal-button	{
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 70.83%;
+bottom: 29.17%;
+border: 2px solid #ACB7C3;
+  }
