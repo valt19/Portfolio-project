@@ -1,65 +1,66 @@
 .logo{
-width: 76px;
-height: 20px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 20px;
-display: flex;
-align-items: center;
-text-align: center;
-color: #2b57a8;
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.text{
-    width: 327px;
-height: 150px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 52px;
-display: flex;
-align-items: center;
-color: #172B4D;
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.head-section{
-    width: 327px;
-height: 146px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #344563;
-flex: none;
-order: 1;
-flex-grow: 0;
-}
-.lets{
-    width: 117px;
-height: 24px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-color: #1c2cbe;
-flex: none;
-order: 0;
-flex-grow: 0;
-}
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #2b57a8;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+  .text{
+      width: 327px;
+  height: 150px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172B4D;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+  .head-section{
+      width: 327px;
+  height: 146px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  }
+  .lets{
+      width: 117px;
+  height: 24px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1c2cbe;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+  
 .normal-button{
-position: absolute;
-left: 16.67%;
-right: 16.67%;
-top: 70.83%;
-bottom: 29.17%;
-border: 2px solid #ACB7C3;
+  position: absolute;
+  left: 16.67%;
+  right: 16.67%;
+  top: 70.83%;
+  bottom: 29.17%;
+  border: 2px solid #ACB7C3;
 }
