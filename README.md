@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -33,8 +29,6 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Portfolio-project] <a name="Portfolio-project"></a>
 
 Portfolio Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market. It has the followinf files: a README file, html, css, gitignore, linters
@@ -42,7 +36,9 @@ Portfolio Project is mandatory to every student at Microverse, and it is one of 
 **[Portfolio-project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-
+**Tech stack**
+**client:**
+  HTML and CSS
 ### Tech Stack <a name="tech-stack"></a>
 <details>
   <summary>Client</summary>
@@ -72,8 +68,6 @@ Portfolio Project is mandatory to every student at Microverse, and it is one of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
@@ -92,40 +86,32 @@ gem install rails
 
 ### Setup
 
-Clone this repository to your desired folder:
-  microverse
+Clone this repository to your desired folder and run it using a browser. Usage To run this project you need a code editor and browser
 ### Install
 
-Install this project with: Blu Stacks
+Install this project with: program.exe file
 
 
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: program.exe file
 
 
 
 ### Run tests
 
-To run tests, run the following command:
-
-
+To run tests, run the following command: program.exe
 
 ### Deployment
 
-You can deploy this project using:
-
-
+You can deploy this project using: Google Chrome
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## 👥 Authors <a name="authors"></a>
-
-Trevor
-
+## 👥 Author <a name="authors"></a>
+Trevor:
 - GitHub: [@githubhandle](https://github.com/valt19)
 - Twitter: [@twitterhandle](https://twitter.com/trevor-odeke)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/trevo-odeke)
@@ -134,29 +120,21 @@ Trevor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[This feature will be updated the more I update this portfolio]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
-
 
 
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -166,7 +144,6 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -176,7 +153,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
@@ -192,7 +168,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="MIT"> MIT</a>
 
