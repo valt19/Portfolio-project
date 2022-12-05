@@ -1,7 +1,7 @@
 .logo {
   width: 76px;
   height: 20px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -15,10 +15,10 @@
   flex-grow: 0;
 }
 
-.text	{
+.text {
   width: 327px;
   height: 150px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -31,10 +31,10 @@
   flex-grow: 0;
 }
 
-.head-section	{
+.head-section {
   width: 327px;
   height: 146px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -48,7 +48,7 @@
 .lets {
   width: 117px;
   height: 24px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -58,7 +58,7 @@
   order: 0;
   flex-grow: 0;
 }
-    
+
 .normal-button {
   position: absolute;
   left: 16.67%;
