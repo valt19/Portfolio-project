@@ -15,8 +15,9 @@
   flex-grow: 1;
   border:rgb(247, 244, 244);
 }
-
+a{text-decoration:none}
 .text {
+  margin:0 24px;
   width: 327px;
   height: 150px;
   font-family: 'poppins', Arial, Helvetica, sans-serif;
@@ -69,8 +70,7 @@
 }
 
 .line {
-  border: 2px solid #acb7c3;
-  background: #6070ff;
+  border: 2px solid  #6070ff;
 }
 
 .bttn {
@@ -86,4 +86,5 @@
   width: 300px;
   display: flex;
   justify-content: space-between;
+  margin: 24px;
 }
