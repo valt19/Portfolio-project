@@ -11,8 +11,9 @@
   text-align: center;
   color: #6070ff;
   flex: none;
-  order: 0;
-  flex-grow: 0;
+  order: none;
+  flex-grow: 1;
+  border:rgb(247, 244, 244);
 }
 
 .text {
@@ -29,6 +30,7 @@
   flex: none;
   order: 0;
   flex-grow: 0;
+  b
 }
 
 .head-section {
@@ -81,7 +83,7 @@
 }
 
 .header-section {
-  height: 150px;
+  height: 1px;
   width: 300px;
   display: flex;
   justify-content: space-between;
