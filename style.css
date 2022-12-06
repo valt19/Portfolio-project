@@ -13,11 +13,12 @@
   flex: none;
   order: none;
   flex-grow: 1;
-  border:rgb(247, 244, 244);
+  border: rgb(247, 244, 244);
 }
-a{text-decoration:none}
+a { text-decoration: none; }
+
 .text {
-  margin:0 24px;
+  margin: 0 24px;
   width: 327px;
   height: 150px;
   font-family: 'poppins', Arial, Helvetica, sans-serif;
