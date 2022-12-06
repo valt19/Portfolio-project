@@ -112,9 +112,9 @@ You can deploy this project using: Google Chrome
 
 ## 👥 Author <a name="authors"></a>
 Trevor:
-- GitHub: [@githubhandle](https://github.com/valt19)
-- Twitter: [@twitterhandle](https://twitter.com/trevor-odeke)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/trevo-odeke)
+- GitHub: [@valt19](https://github.com/valt19)
+- Twitter: [@OdekeTrevor](https://twitter.com/home)
+- LinkedIn: [@TrevorOdeke](https://www.linkedin.com/feed/)
 
 
 
@@ -124,7 +124,9 @@ Trevor:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[This feature will be updated the more I update this portfolio]**
+- [ ] **[client-login]**
+**[search-box]**
+**[Background-videos]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
