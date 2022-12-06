@@ -1,7 +1,7 @@
 .logo {
   width: 76px;
   height: 20px;
-  font-family: 'Poppins';
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -18,7 +18,7 @@
 .text {
   width: 327px;
   height: 150px;
-  font-family: 'Poppins';
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -34,7 +34,7 @@
 .head-section {
   width: 327px;
   height: 146px;
-  font-family: 'Poppins';
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -48,12 +48,12 @@
 .lets {
   width: 117px;
   height: 24px;
-  font-family: 'Poppins';
+  font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7f8Cff;
+  color: #7f8cff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -75,10 +75,9 @@
 .bttn {
   width: 18px;
   height: 20px;
-  display: flex; 
+  display: flex;
   flex-direction: column;
   justify-content: space-around;
-
 }
 
 .header-section {
